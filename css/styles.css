@@ -1,0 +1,17 @@
+.flashy {
+  color: red;
+  font-style: italic;
+}
+
+body {
+    text-align: center;
+    background-color: aquamarine;
+}
+
+.best {
+    color: violet;
+    font-family: cursive;
+    font-size: xx-large;
+    font-weight: 150px;
+
+}
